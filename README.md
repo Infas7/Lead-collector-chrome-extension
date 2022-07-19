@@ -10,3 +10,5 @@ To use this extension simply
  3. Switch to developer mode by toggling the button in the top right corner.
  4. Click "Load unpacked" button and choose the folder you downloaded.
  5. Now you are free to use.
+
+![image](https://user-images.githubusercontent.com/76855463/179809013-dce21f72-a953-4272-b2f7-58463367f2a7.png)
