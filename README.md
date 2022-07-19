@@ -1,7 +1,7 @@
 # Lead-collector-chrome-extension
 
 This is a simple google chrome extension to collect leads or save links for future use. This extension will be very useful for freelancers who works in leads finding jobs.
-In this app, user can add a link maually or they can instanlly pull the link of current opened tab. The already saved links can be deleted one by one or all at once as per the need.
+In this extension, user can add a link maually or they can instanlly pull the link of current opened tab. The already saved links can be deleted one by one or all at once as per the need.
 However all the links saved in a browser instance will not persist in the next open.
 
 To use this extension simply 
